@@ -4,7 +4,7 @@ Tieni d'occhio i prezzi Amazon.it dei prodotti che ti interessano e scopri quand
 
 ## [Scarica MyPriceList per Windows](https://github.com/KekkoRebs/mypricelist-download/releases/latest/download/MyPriceList-windows.zip)
 
-Versione attuale: **1.2.0** · Windows 10 e 11 · gratis · [tutte le versioni e le novità](https://github.com/KekkoRebs/mypricelist-download/releases)
+Versione attuale: **1.2.1** · Windows 10 e 11 · gratis · [tutte le versioni e le novità](https://github.com/KekkoRebs/mypricelist-download/releases)
 
 ![MyPriceList](screenshot.png)
 
